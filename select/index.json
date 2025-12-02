@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "星月夜",
+  "base_artist": "YU-KA",
+  "createdAt": "2025-12-02T06:51:18.193967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星月夜",
+      "artist": "WagakkiBand",
+      "has_synced": false,
+      "path": "select/01_星月夜_WagakkiBand.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星月夜",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_星月夜_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星月夜",
+      "artist": "YU-KA",
+      "has_synced": false,
+      "path": "select/03_星月夜_YU-KA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星月夜",
+      "artist": "YU-KA",
+      "has_synced": true,
+      "path": "select/04_星月夜_YU-KA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "星月夜 - Hoshizukiyo",
+      "artist": "YU-KA",
+      "has_synced": true,
+      "path": "select/05_星月夜_-_Hoshizukiyo_YU-KA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "星月夜",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/06_星月夜_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "星月夜 (Instrumental)",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/07_星月夜_(Instrumental)_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hoshizukiyo (星月夜)",
+      "artist": "Wagakki Band （和楽器バンド）",
+      "has_synced": true,
+      "path": "select/08_Hoshizukiyo_(星月夜)_Wagakki_Band_(和楽器バンド).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hoshi tsuki yo [星月夜]",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/09_Hoshi_tsuki_yo_[星月夜]_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "星月夜",
+      "artist": "Amatsuki",
+      "has_synced": true,
+      "path": "select/10_星月夜_Amatsuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星月夜",
+      "artist": "由薫",
+      "has_synced": false,
+      "path": "select/pl_01_星月夜_由薫.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "星月夜",
+      "artist": "由薫",
+      "has_synced": false,
+      "path": "select/pl_02_星月夜_由薫.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "星月夜",
+      "artist": "由薫",
+      "has_synced": false,
+      "path": "select/pl_03_星月夜_由薫.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "星月夜",
+      "artist": "由薫",
+      "has_synced": false,
+      "path": "select/pl_04_星月夜_由薫.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "星月夜",
+      "artist": "由薫",
+      "has_synced": false,
+      "path": "select/pl_05_星月夜_由薫.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "星月夜 (From THE FIRST TAKE)",
+      "artist": "由薫",
+      "has_synced": false,
+      "path": "select/pl_06_星月夜_(From_THE_FIRST_TAKE)_由薫.txt"
+    }
+  ]
+}
